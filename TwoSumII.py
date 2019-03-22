@@ -24,4 +24,6 @@ class Solution(object):
                 
                 tortise -=1
                 
+         #return [-1, -1]
+                
             
