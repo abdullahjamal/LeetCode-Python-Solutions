@@ -20,7 +20,7 @@ class Solution(object):
             elif target > (numbers[hare] + numbers[tortise]):
                 
                 hare += 1
-            elif target < (numbers[hare] + numbers[tortise]):
+            else:
                 
                 tortise -=1
                 
